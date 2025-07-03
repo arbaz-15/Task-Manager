@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Groceries",
+        "completed": false
+    },
+    {
+        "title": "Jogging",
+        "completed": true
+    }
+]
