@@ -1,7 +1,7 @@
 # 📝 Task Manager – Console Python App
 
 A simple console-based Task Manager built using Python.  
-You can add tasks, mark them as complete, delete them, and manage due dates and priorities.
+You can add tasks, view the tasks, mark them as complete, delete them, and you can exit from it.
 
 ## 📌 Features
 
@@ -9,7 +9,6 @@ You can add tasks, mark them as complete, delete them, and manage due dates and 
 - View all tasks
 - Mark task as complete
 - Delete a task
-- Assign due dates and priority (High, Medium, Low)
 - Data saved in JSON file
 
 ## 🧰 Tech Used
