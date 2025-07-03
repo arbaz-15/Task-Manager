@@ -24,3 +24,7 @@ You can add tasks, mark them as complete, delete them, and manage due dates and 
 2. Run the file:
 ```bash
 python task_manager.py
+
+👨‍💻 Author
+Mohammed Arbazulla
+📧 arbazulla15@gmail.com
